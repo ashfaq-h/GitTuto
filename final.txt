@@ -1,0 +1,7 @@
+this is the version 1 of my project
+I want commit
+
+checking out the git diff function
+adding extra things and removed few haratcres in the file 
+
+some new changes to see how to skip the staging area and directly commit from the working directory
